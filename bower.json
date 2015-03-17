@@ -1,0 +1,33 @@
+{
+  "name": "tiy-assignment-26",
+  "version": "0.0.0",
+  "authors": [
+    "Sarrah Vesselov <sarchka1@gmail.com>"
+  ],
+  "description": "routing with backbone and react",
+  "keywords": [
+    "react",
+    "backbone"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "underscore": "~1.8.2",
+    "backbone": "~1.1.2",
+    "font-awesome": "~4.3.0",
+    "handlebars": "~3.0.0",
+    "react": "~0.13.1",
+    "react.backbone": "~0.6.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.1",
+    "chai": "~2.1.2"
+  }
+}
